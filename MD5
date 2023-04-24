@@ -1,0 +1,8 @@
+54f420b264161a984a8adcc7afa2b2cf *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+3255cf2930c8a83c15c13c200d65f827 *R/black_scholes.R
+fbce2849c64bee7d040f4786ead9c3b1 *R/monte_carlo.R
+872410df7bce9d0433c96ec9f427288d *R/option_value.R
+f8aa12e33399dd739b8068a67e451e47 *man/black_schiles.Rd
+644b2ac0fee3a2f9be8dda229b3be760 *man/monte_carlo.Rd
+1392d88c0420329d31ea3311e68184c3 *man/option_value.Rd
